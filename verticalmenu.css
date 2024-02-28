@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav{
+    background-color:slateblue;
+    width: 20%;
+    height: 100vh;
+}
+#cont{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px 0px;
+    display: block;
+    text-align: center;
+}
+a:hover{
+    background-color:lavenderblush ;
+    color: black;
+}
